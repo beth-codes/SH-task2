@@ -29,18 +29,11 @@ Users should be able to:
 
 ![](./screenshot.jpg)
 
-Add a screenshot of your solution. The easiest way to do this is to use Firefox to view your project, right-click the page and select "Take a Screenshot". You can choose either a full-height screenshot or a cropped one based on how long the page is. If it's very long, it might be best to crop it.
-
-Alternatively, you can use a tool like [FireShot](https://getfireshot.com/) to take the screenshot. FireShot has a free option, so you don't need to purchase it. 
-
-Then crop/optimize/edit your image however you like, add it to your project, and update the file path in the image above.
-
-**Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
 
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://priceless-engelbart-8a84ee.netlify.app/)
 
 ## My process
 
@@ -51,7 +44,6 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 - Flexbox
 - CSS Grid
 - javascript
-- [Styled Components](https://styled-components.com/) - For styles
 
 
 ### What I learned
@@ -75,11 +67,11 @@ I would love to focus on css animation, during this project i noticed some anima
 ## Author
 
 - Website - [Adegunwa Elizabeth](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@beth-codes](https://www.frontendmentor.io/profile/beth-codes)
 - Twitter - [@lil__bet](https://www.twitter.com/lil__bet)
 
 
 ## Acknowledgments
 
-A friend helped me when i was facing some challenges with the responsiveness, a very big thank yoy to Tomie and to the tutor of side hustle internship
+A friend helped me when i was facing some challenges with the responsiveness, a very big thank you to side hustle tutors and to my friend tomie.
 
