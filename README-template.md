@@ -33,7 +33,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here]()
+- Solution URL: [Add solution URL here](https://beth-codes.hashnode.dev/my-experience-with-side-hustle-internship)
 - Live Site URL: [Add live site URL here](https://priceless-engelbart-8a84ee.netlify.app/)
 
 ## My process
