@@ -32,7 +32,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Add solution URL here]()
 - Live Site URL: [Add live site URL here](https://priceless-engelbart-8a84ee.netlify.app/)
 
 ## My process
