@@ -1,5 +1,5 @@
 
-## Deploying your project
+## Live view
 
-- [Netlify](https://priceless-engelbart-8a84ee.netlify.app/)
+- [live preview](https://priceless-engelbart-8a84ee.netlify.app/)
 
